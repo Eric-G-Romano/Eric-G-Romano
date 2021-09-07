@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Eric-G-Romano
-- 👀 I’m interested in all thinks Machine Learning
+- 👀 I’m interested in all things Machine Learning
 - 🌱 I’m currently learning recommendation systems and honing my Natural Language Processing skills
 - 💞️ I’m looking to collaborate on projects regarding Machine Learning, Data Science and Data Analytics
 - 📫 How to reach me: eric.romano@eriseconsulting.com
